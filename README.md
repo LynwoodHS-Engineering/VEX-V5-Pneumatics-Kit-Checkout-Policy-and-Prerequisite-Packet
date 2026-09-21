@@ -286,7 +286,7 @@ Suggested repository organization:
 pneumatics-qualification/
 ├── README.md
 ├── code/
-│   └── pneumatic_sensor_control.cpp
+│   └── pneumatic_sensor_control.py
 ├── demonstration/
 │   └── demo-video-link.txt
 ├── research/
